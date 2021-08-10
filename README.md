@@ -1,6 +1,6 @@
 # bessel_gumbel
 
-This small project (Mathematica notebook) checks that the Fredholm determinant of a modified Bessel(0) kernel in exponential coordinates (arising as a gap probability in certain last passage percolation models) coincides with the *standard* Gumbel distribution (see here https://en.wikipedia.org/wiki/Gumbel_distribution for a definition).  
+This small project (for now the Mathematica notebook `tracy_widom_bessel_gumbel.nb`) numerically checks that the Fredholm determinant of a modified Bessel(0) kernel in exponential coordinates (arising as a gap probability in certain last passage percolation models) coincides with the *standard* Gumbel distribution (see here https://en.wikipedia.org/wiki/Gumbel_distribution for a definition).  
 
 The Fredholm determinant (gap probability) in question is computed using the method of Bornemann (*On the Numerical Evaluation of Fredholm Determinants*, arXiv:0804.2543 [math.NA], available at https://arxiv.org/abs/0804.2543). The modified Bessel kernel is a version of the random matrix theory hard-edge Bessel kernel of Tracy--Widom (*Level-Spacing Distributions and the Bessel Kernel*, arXiv:hep-th/9304063, available at https://arxiv.org/abs/hep-th/9304063).
 
